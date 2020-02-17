@@ -1,2 +1,2 @@
 # Field-Notes
-A place for general projects
+A place for general notes and random things
